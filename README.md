@@ -10,8 +10,8 @@
 
 I am an undergraduate Computer Science student at UofT. Typescript, Python, Java, HTML are the programming languages I am good at. I am interested in web development, mobile development, and hoping to learn AI in the future
 
-- 🔭 I have 10 months of professional working experience as a mobile and web developer
-- 🌱 My favourite technologies to use are React, React Native and NextJS
+- 🔭 I have 14 months of professional working experience as a Full-Stack developer
+- 🌱 My favourite technologies to use are React, Angular, React Native, NextJS and NestJS
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - 📫 Reach out to me at: <a href="hermanvuongbusiness@gmail.com">hermanvuongbusiness@gmail.com</a>
 
